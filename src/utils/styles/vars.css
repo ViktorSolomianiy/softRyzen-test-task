@@ -1,0 +1,17 @@
+:root {
+  /* Colors */
+  --primary-color: #97d28b;
+  --primary-hover-color: #173d33;
+
+  /* Fonts */
+  --fira-sans-font: "Fira Sans", sans-serif;
+  --oswald-font: "Oswald", sans-serif;
+
+  /* Text */
+  --text-color: #173d33;
+
+  /* Modal */
+  --modal-background-color: rgba(23, 61, 51, 0.75);
+  --modal-text-color: rgba(255, 255, 255, 0.25);
+  --modal-hover-text-color: #ffffff;
+}
