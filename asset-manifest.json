@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/softryzen-test-task/static/css/main.6483aa39.css",
-    "main.js": "/softryzen-test-task/static/js/main.2994937d.js",
+    "main.css": "/softryzen-test-task/static/css/main.17b0a06b.css",
+    "main.js": "/softryzen-test-task/static/js/main.4ceb56a6.js",
+    "static/media/cases-1@3x.jpg": "/softryzen-test-task/static/media/cases-1@3x.18406d3002f6f7d02268.jpg",
+    "static/media/mobile-hero@3x.jpg": "/softryzen-test-task/static/media/mobile-hero@3x.3705c9dd2ca19f3e23de.jpg",
+    "static/media/cases-1@2x.jpg": "/softryzen-test-task/static/media/cases-1@2x.0aaf0f371f7511544fec.jpg",
+    "static/media/mobile-hero@2x.jpg": "/softryzen-test-task/static/media/mobile-hero@2x.39eaa507d5285c81e04c.jpg",
+    "static/media/cases-1.jpg": "/softryzen-test-task/static/media/cases-1.301bbc283d0938de6a70.jpg",
+    "static/media/sprite.svg": "/softryzen-test-task/static/media/sprite.53fc71a6d690fb99964895409683d0dc.svg",
+    "static/media/mobile-hero.jpg": "/softryzen-test-task/static/media/mobile-hero.04b15333ba6093404022.jpg",
     "index.html": "/softryzen-test-task/index.html",
-    "main.6483aa39.css.map": "/softryzen-test-task/static/css/main.6483aa39.css.map",
-    "main.2994937d.js.map": "/softryzen-test-task/static/js/main.2994937d.js.map"
+    "main.17b0a06b.css.map": "/softryzen-test-task/static/css/main.17b0a06b.css.map",
+    "main.4ceb56a6.js.map": "/softryzen-test-task/static/js/main.4ceb56a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6483aa39.css",
-    "static/js/main.2994937d.js"
+    "static/css/main.17b0a06b.css",
+    "static/js/main.4ceb56a6.js"
   ]
 }
