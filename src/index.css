@@ -1,4 +1,5 @@
-@import-normalize; /* bring in normalize.css styles */
+@import-normalize;
+@import "./utils/styles/vars.css";
 
 body {
   margin: 0;
@@ -7,6 +8,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--primary-background-color);
 }
 
 code {
@@ -14,8 +16,13 @@ code {
     monospace;
 }
 
+img {
+  display: block;
+}
+
 * {
   text-decoration: none;
   padding: 0;
   margin: 0;
+  list-style: none;
 }

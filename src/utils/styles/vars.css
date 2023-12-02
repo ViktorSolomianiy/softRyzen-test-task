@@ -2,6 +2,11 @@
   /* Colors */
   --primary-color: #97d28b;
   --primary-hover-color: #173d33;
+  --second-color: #dcefd8;
+  --burger-menu-icon-color: #292d32;
+  --primary-background-color: #f3f5fa;
+  --second-background-color: #eaedf1;
+  --icon-color: #173d33;
 
   /* Fonts */
   --fira-sans-font: "Fira Sans", sans-serif;
@@ -9,8 +14,10 @@
 
   /* Text */
   --text-color: #173d33;
+  --opacity-text-color: rgba(23, 61, 51, 0.25);
 
   /* Modal */
+  --overlay: rgba(23, 61, 51, 0.25);
   --modal-background-color: rgba(23, 61, 51, 0.75);
   --modal-text-color: rgba(255, 255, 255, 0.25);
   --modal-hover-text-color: #ffffff;
