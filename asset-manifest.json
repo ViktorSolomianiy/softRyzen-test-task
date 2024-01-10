@@ -1,20 +1,37 @@
 {
   "files": {
-    "main.css": "/softryzen-test-task/static/css/main.17b0a06b.css",
-    "main.js": "/softryzen-test-task/static/js/main.4ceb56a6.js",
+    "main.css": "/softryzen-test-task/static/css/main.b0700c7c.css",
+    "main.js": "/softryzen-test-task/static/js/main.9d671ca4.js",
+    "static/media/desktop-hero@3x.jpg": "/softryzen-test-task/static/media/desktop-hero@3x.c144c6a90358e8e4d0de.jpg",
+    "static/media/desktop-hero@2x.jpg": "/softryzen-test-task/static/media/desktop-hero@2x.dff1b9fff01dec0607d9.jpg",
     "static/media/cases-1@3x.jpg": "/softryzen-test-task/static/media/cases-1@3x.18406d3002f6f7d02268.jpg",
+    "static/media/tablet-hero@2x.jpg": "/softryzen-test-task/static/media/tablet-hero@2x.bab450597bc44c16a477.jpg",
+    "static/media/desktop-about-photo-2@3x.jpg": "/softryzen-test-task/static/media/desktop-about-photo-2@3x.3fd847bf26e296f99640.jpg",
+    "static/media/desktop-about-photo-1@3x.jpg": "/softryzen-test-task/static/media/desktop-about-photo-1@3x.c8326ee936d898ad4bc9.jpg",
+    "static/media/desktop-hero.jpg": "/softryzen-test-task/static/media/desktop-hero.67fd9e83aa6c8bfcb199.jpg",
     "static/media/mobile-hero@3x.jpg": "/softryzen-test-task/static/media/mobile-hero@3x.3705c9dd2ca19f3e23de.jpg",
     "static/media/cases-1@2x.jpg": "/softryzen-test-task/static/media/cases-1@2x.0aaf0f371f7511544fec.jpg",
+    "static/media/desktop-about-photo-1@2x.jpg": "/softryzen-test-task/static/media/desktop-about-photo-1@2x.8c418933826fd1238a54.jpg",
+    "static/media/desktop-about-photo-2@2x.jpg": "/softryzen-test-task/static/media/desktop-about-photo-2@2x.1934a752d6f3131567f9.jpg",
+    "static/media/tablet-about-photo-1@3x.jpg": "/softryzen-test-task/static/media/tablet-about-photo-1@3x.b6466f3e117298420e4f.jpg",
+    "static/media/tablet-about-photo-2@3x.jpg": "/softryzen-test-task/static/media/tablet-about-photo-2@3x.38f4c68bdb45ec610fd9.jpg",
     "static/media/mobile-hero@2x.jpg": "/softryzen-test-task/static/media/mobile-hero@2x.39eaa507d5285c81e04c.jpg",
+    "static/media/tablet-hero.jpg": "/softryzen-test-task/static/media/tablet-hero.f7a824bd734e39e56f5b.jpg",
+    "static/media/tablet-about-photo-1@2x.jpg": "/softryzen-test-task/static/media/tablet-about-photo-1@2x.13c220f7820b95d543de.jpg",
     "static/media/cases-1.jpg": "/softryzen-test-task/static/media/cases-1.301bbc283d0938de6a70.jpg",
+    "static/media/tablet-about-photo-2@2x.jpg": "/softryzen-test-task/static/media/tablet-about-photo-2@2x.97fa9e77045e74e2abf2.jpg",
+    "static/media/desktop-about-photo-1.jpg": "/softryzen-test-task/static/media/desktop-about-photo-1.7a1dbe97a72be94cafdc.jpg",
     "static/media/sprite.svg": "/softryzen-test-task/static/media/sprite.53fc71a6d690fb99964895409683d0dc.svg",
+    "static/media/desktop-about-photo-2.jpg": "/softryzen-test-task/static/media/desktop-about-photo-2.2164675a8edcab1fa44d.jpg",
     "static/media/mobile-hero.jpg": "/softryzen-test-task/static/media/mobile-hero.04b15333ba6093404022.jpg",
+    "static/media/tablet-about-photo-1.jpg": "/softryzen-test-task/static/media/tablet-about-photo-1.edb4859391974c8376f6.jpg",
+    "static/media/tablet-about-photo-2.jpg": "/softryzen-test-task/static/media/tablet-about-photo-2.2c538cd7585913177783.jpg",
     "index.html": "/softryzen-test-task/index.html",
-    "main.17b0a06b.css.map": "/softryzen-test-task/static/css/main.17b0a06b.css.map",
-    "main.4ceb56a6.js.map": "/softryzen-test-task/static/js/main.4ceb56a6.js.map"
+    "main.b0700c7c.css.map": "/softryzen-test-task/static/css/main.b0700c7c.css.map",
+    "main.9d671ca4.js.map": "/softryzen-test-task/static/js/main.9d671ca4.js.map"
   },
   "entrypoints": [
-    "static/css/main.17b0a06b.css",
-    "static/js/main.4ceb56a6.js"
+    "static/css/main.b0700c7c.css",
+    "static/js/main.9d671ca4.js"
   ]
 }
