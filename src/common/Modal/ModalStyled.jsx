@@ -35,9 +35,7 @@ export const Overlay = styled.div`
   opacity: ${(props) =>
     props.animationModal && props.animationModalOnSubmit ? 1 : 0};
   visibility: ${(props) =>
-    props.animationModal && props.animationModalOnSubmit
-      ? "visible"
-      : "hidden"};
+    props.animationModal && props.animationModalOnSubmit ? "visible" : "auto"};
   top: 0;
   left: 0;
   width: 100%;

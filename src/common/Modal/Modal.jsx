@@ -22,7 +22,7 @@ export const Modal = ({
   }, [onCloseModal]);
 
   useEffect(() => {
-    document.body.style.overflow = "hidden";
+    document.body.style.overflow = "auto";
 
     const onKeyDown = (e) => {
       if (e.code === "Escape") {

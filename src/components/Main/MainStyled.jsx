@@ -17,14 +17,10 @@ export const GridContainer = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-
-  /* @media screen and (min-width: 1280px) {
-    margin-top: 200px;
-  } */
 `;
 
 export const GridParagraphContainer = styled.div`
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 1280px) {
     display: grid;
     grid-template-rows: 1fr auto;
   }
@@ -67,6 +63,11 @@ export const Paragraph = styled.p`
     text-align: justify;
   }
 
+  @media screen and (min-width: 768px) {
+    margin-top: 0;
+    margin-bottom: 43px;
+  }
+
   @media screen and (min-width: 1280px) {
     grid-column: 2 / span 1;
     margin: 0;
@@ -96,6 +97,13 @@ export const AddressTextContainer = styled.div`
   place-items: center;
   grid-gap: 8px;
   margin-top: 24px;
+
+  @media screen and (min-width: 768px) {
+    grid-template-columns: auto auto auto;
+    justify-content: space-between;
+    margin-top: 16px;
+    grid-gap: 0;
+  }
 `;
 
 export const AddressText = styled.p`
@@ -105,9 +113,18 @@ export const AddressText = styled.p`
   letter-spacing: -0.04em;
   font-weight: 400;
   color: var(--text-color);
+  white-space: nowrap;
 `;
 
 export const Image = styled.img`
   width: 100%;
   margin-top: 36px;
+
+  @media screen and (min-width: 768px) {
+    margin-top: 40px;
+  }
+
+  @media screen and (min-width: 1280px) {
+    margin-top: 36px;
+  }
 `;
